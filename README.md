@@ -10,13 +10,6 @@ Beyond coding and problem-solving, I’m an avid runner and cyclist, a woodworki
 
 ---
 
-### What I Do
-*   **Explainable AI:** Researching LLM attention mechanisms and internal reasoning methodologies.
-*   **Full-Stack Web Dev:** Crafting seamless user experiences backed by robust, secure architectures.
-*   **Simulation & Networking:** Building V2X communication protocols and robotic simulations.
-
----
-
 ### Tech Stack
 
 **Programming Languages**<br>
